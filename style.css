@@ -142,7 +142,7 @@ body {
   }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 720px) {
   body {
     background-color: #ffffff;
   }
